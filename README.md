@@ -1,7 +1,7 @@
 # Railway_Reservation_System
 
 # Features :
-1. Registeration as a user or as an admin.
+1. Registeration as an user or as an admin.
 2. Ticket booking.
 3. Ticket Cancellation.
 4. Print of entire seating plan of a train for a date can be seen in table "seating_plan".
@@ -15,7 +15,7 @@
    b.  Copy all the scripts of tables, functions, triggers and 
        that of procedures too into PostgreSQL ,in a newly 
        created database, and run them once.
-3. Register as a user by inserting values in "user_" table.
+3. Register as an user by inserting values in "user_" table.
 4. Look into the "train_released" table for the availability of train with the desired date and seats.
 5. Insert values into the "ticket" table using your username and note the generated pnr_no from the "ticket" table.
 6. Using the generated pnr_no, Call the procedure "assign_berth" for all those passengers who are to be booked on the same ticket.
