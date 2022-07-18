@@ -7,7 +7,7 @@
 4. Print of entire seating plan of a train for a date can be seen in table "seating_plan".
 
 
-#Steps :
+# Steps :
 1. Install PostgreSQL.
 2. a.  Import the database file named as “postgres” (present 
        in SQL folder) in PostgreSQL(pgAdmin).
