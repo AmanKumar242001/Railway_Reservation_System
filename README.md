@@ -9,10 +9,10 @@
 
 # Steps :
 1. Install PostgreSQL.
-2. a.  Import the database file named as “postgres” (present 
+2.  a.)  Import the database file named as “postgres” (present 
        in SQL folder) in PostgreSQL(pgAdmin).
                OR
-   b.  Copy all the scripts of tables, functions, triggers and 
+    b.)  Copy all the scripts of tables, functions, triggers and 
        that of procedures too into PostgreSQL ,in a newly 
        created database, and run them once.
 3. Register as an user by inserting values in "user_" table.
